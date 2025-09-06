@@ -1,0 +1,1 @@
+// Controllers/RecommendationsController.cs\nusing Microsoft.AspNetCore.Mvc;\n[ApiController]\n[Route("api/[controller]")]\npublic class RecommendationsController : ControllerBase\n{\n    // TODO: call external APIs for accommodations and activities\n}
