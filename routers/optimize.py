@@ -1,0 +1,1 @@
+# routers/optimize.py\nfrom fastapi import APIRouter\nfrom services.itinerary_optimizer import optimize_itinerary\nrouter = APIRouter(prefix="/optimize")\n@router.post("/")\nasync def optimize(data: dict):\n    return optimize_itinerary(data)
