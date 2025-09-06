@@ -1,0 +1,1 @@
+// Models/Recommendation.cs\npublic class Recommendation\n{\n    public string Name { get; set; }\n    public string Type { get; set; }\n    public double CarbonFootprint { get; set; }\n}
