@@ -1,0 +1,1 @@
+// Controllers/TravelController.cs\nusing Microsoft.AspNetCore.Mvc;\n[ApiController]\n[Route("api/[controller]")]\npublic class TravelController : ControllerBase\n{\n    // TODO: define endpoints\n}
