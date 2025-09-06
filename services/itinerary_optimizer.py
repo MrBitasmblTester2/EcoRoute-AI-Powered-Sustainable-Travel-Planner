@@ -1,0 +1,1 @@
+# services/itinerary_optimizer.py\n# TODO: implement rules-based matching for itinerary\ndef optimize_itinerary(data: dict) -> dict:\n    # placeholder stub\n    return {"itinerary": []}
