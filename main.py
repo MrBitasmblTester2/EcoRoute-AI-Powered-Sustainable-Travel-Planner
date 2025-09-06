@@ -1,0 +1,1 @@
+# main.py\nfrom fastapi import FastAPI\napp = FastAPI()\n# TODO: mount routers and endpoints
