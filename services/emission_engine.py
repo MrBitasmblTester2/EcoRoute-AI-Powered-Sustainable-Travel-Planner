@@ -1,0 +1,1 @@
+# services/emission_engine.py\n# TODO: load emissions dataset\ndef calculate_emissions(distance_km: float, mode: str) -> float:\n    # placeholder logic\n    return distance_km * 0.1
